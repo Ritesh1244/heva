@@ -24,7 +24,7 @@ export default function DataExploration() {
   }, [current]);
 
   return (
-    <div className="w-full h-screen bg-[#0B0C1E] text-white flex items-center justify-center relative overflow-hidden">
+    <div className="w-full h-screen bg-[#0E0C14] text-white flex items-center justify-center relative overflow-hidden">
       <div className="max-w-7xl w-full flex flex-col md:flex-row px-4 md:px-10 gap-10">
         {/* Left Text Section */}
         <div className="md:w-1/2 flex flex-col justify-center">
